@@ -1,6 +1,7 @@
 ## Text Visualization in Python with Scattertext
-## Jason S. Kessler (CDK Global)
-## http://www.jasonkessler.com
+### Jason S. Kessler (CDK Global)
+### Twitter @jasonkessler
+### http://www.jasonkessler.com
 ### November 15, 2017
 
 Two Python libraries I've developed, Scattertext and AgeFromName, are heavily used in the talk.
