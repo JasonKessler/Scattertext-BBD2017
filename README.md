@@ -10,6 +10,8 @@ Please install them and if you have time, star them on Github:
 - [Scattertext](https://github.com/JasonKessler/scattertext)
 - [AgeFromName](https://github.com/JasonKessler/agefromname)
 
+The PowerPoint presentation is availabe in the repository as BigDataBellevueMeetup2017Kessler.pptx.
+
 `$ pip install scattertext agefromname && python -m spacy.en.download`
 
 It's news you can use: six Python 3.6 Jupyter notebooks showing how to visualize the following data:
